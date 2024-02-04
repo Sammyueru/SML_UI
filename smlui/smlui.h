@@ -6,6 +6,9 @@
 #ifndef SMLUI_SMLUI_H
 #define SMLUI_SMLUI_H
 #include <iostream>
+#include "LoadResources.h"
+
+using SML_UI;
 
 class SMLUI {
 public:
